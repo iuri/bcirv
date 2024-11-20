@@ -1,0 +1,6 @@
+mne==1.8.0
+numpy
+scikit-learn
+pywavelets 
+EMD-signal
+pandas
